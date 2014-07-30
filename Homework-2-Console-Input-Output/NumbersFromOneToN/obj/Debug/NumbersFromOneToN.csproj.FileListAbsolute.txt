@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

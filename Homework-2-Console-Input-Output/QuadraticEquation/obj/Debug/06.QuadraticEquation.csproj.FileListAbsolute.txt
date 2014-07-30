@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

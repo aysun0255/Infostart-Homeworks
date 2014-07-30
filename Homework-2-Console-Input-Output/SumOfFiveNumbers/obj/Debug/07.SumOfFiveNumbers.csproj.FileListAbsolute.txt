@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.pdb
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-2-Console-Input-Output\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.pdb
