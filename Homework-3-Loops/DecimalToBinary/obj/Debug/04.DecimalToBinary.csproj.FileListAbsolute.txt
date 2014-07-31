@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

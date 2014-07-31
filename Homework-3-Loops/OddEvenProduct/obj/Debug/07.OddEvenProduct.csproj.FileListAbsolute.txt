@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\OddEvenProduct\bin\Debug\OddEvenProduct.exe.config
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\OddEvenProduct\bin\Debug\OddEvenProduct.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\OddEvenProduct\bin\Debug\OddEvenProduct.pdb
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\OddEvenProduct\obj\Debug\OddEvenProduct.exe
+C:\Users\Ivan Nenkov\Desktop\Infostart-Homeworks\Homework-3-Loops\OddEvenProduct\obj\Debug\OddEvenProduct.pdb
